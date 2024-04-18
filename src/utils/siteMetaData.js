@@ -12,6 +12,7 @@ const siteMetadata = {
     email: 'himanshupal2412@gmail.com', 
     linkedin: 'https://www.linkedin.com/in/himanshupal24/',
     locale: 'en-US',
+    sitemap: '/sitemap.xml',
   }
   
   module.exports = siteMetadata
