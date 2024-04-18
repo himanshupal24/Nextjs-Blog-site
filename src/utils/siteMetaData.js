@@ -6,7 +6,7 @@ const siteMetadata = {
     description: 'Technical Blogs',
     language: 'en-us',
     theme: 'system',
-    siteUrl: 'https://create-blog-with-nextjs.vercel.app', 
+    siteUrl: 'https://technoblogs07.netlify.app/', 
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', 
     email: 'himanshupal2412@gmail.com', 
