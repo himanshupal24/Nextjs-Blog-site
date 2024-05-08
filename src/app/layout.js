@@ -59,6 +59,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
     <head>
     <meta name="google-site-verification" content="ug_IapNEc3ZWEeAzDWZ99uUFTWhuRqg_qr79GwchCJ0" />
+    <meta name="google-adsense-account" content="ca-pub-7070336929107463">
     </head>
       <body
         className={cx(
