@@ -16,6 +16,7 @@ const toggle = () =>{
   setClick(!click)
 }
   return (
+    <meta name="google-adsense-account" content="ca-pub-7070336929107463">
     <header className="w-full p-4  px-5 sm:px-10 flex items-center justify-between">
         <Logo />
 
