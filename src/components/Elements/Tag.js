@@ -4,6 +4,7 @@ import React from "react";
 
 const Tag = ({ link = "#", name, ...props }) => {
   return (
+    <meta name="google-adsense-account" content="ca-pub-7070336929107463">
     <Link
       href={link}
       className={cx(
