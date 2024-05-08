@@ -5,6 +5,7 @@ import React from "react";
 
 const BlogLayoutThree = ({ blog }) => {
   return (
+    <meta name="google-adsense-account" content="ca-pub-7070336929107463">
     <div className="group flex flex-col items-center text-dark dark:text-light">
       <Link href={blog.url} className="h-full rounded-xl overflow-hidden">
         <Image
