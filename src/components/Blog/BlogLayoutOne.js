@@ -6,6 +6,7 @@ import { slug } from "github-slugger";
 
 const BlogLayoutOne = ({ blog }) => {
   return (
+    <meta name="google-adsense-account" content="ca-pub-7070336929107463">
     <div className="group inline-block overflow-hidden rounded-xl">
       <div
         className="absolute top-0 left-0 bottom-0 right-0 h-full
