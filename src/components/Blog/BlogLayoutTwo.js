@@ -5,6 +5,7 @@ import React from "react";
 
 const BlogLayoutTwo = ({ blog }) => {
   return (
+    <meta name="google-adsense-account" content="ca-pub-7070336929107463">
     <div className="group grid grid-cols-12 gap-4 items-center text-dark dark:text-light">
       <Link
         href={blog.url}
