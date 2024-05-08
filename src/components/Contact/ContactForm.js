@@ -12,6 +12,7 @@ export default function ContactForm() {
   console.log(errors);
 
   return (
+    <meta name="google-adsense-account" content="ca-pub-7070336929107463">
     <form
       onSubmit={handleSubmit(onSubmit)}
       className="mt-12 text-base xs:text-lg sm:text-xl font-medium leading-relaxed font-in"
